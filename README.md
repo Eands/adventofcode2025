@@ -1,4 +1,4 @@
-Advent of Code [Markdown Live Preview](https://adventofcode.com/2025)
+Advent of Code [adventofcode](https://adventofcode.com/2025)
 
 ### Solved:
 - [x] Day 1
